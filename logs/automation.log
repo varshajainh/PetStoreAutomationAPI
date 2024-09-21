@@ -1,0 +1,20 @@
+12:55:14.769 [main] INFO  test.UserTests - ********************Creating user************
+12:55:18.645 [main] INFO  test.UserTests - ********************Created user************
+12:55:18.665 [main] INFO  test.UserTests - ********************Getting user************
+12:55:20.455 [main] INFO  test.UserTests - ********************Updating user************
+12:55:21.563 [main] INFO  test.UserTests - ********************To check if it is updated************
+13:31:10.661 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Creating user************
+13:31:14.143 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Created user************
+13:31:14.161 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Getting user************
+13:31:15.939 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Updating user************
+13:31:17.131 [main] INFO  test.UserTestsUsingPropertiesFile - ********************To check if it is updated************
+16:07:32.445 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Creating user************
+16:07:38.548 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Created user************
+16:07:38.661 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Getting user************
+16:07:40.543 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Updating user************
+16:07:42.446 [main] INFO  test.UserTestsUsingPropertiesFile - ********************To check if it is updated************
+16:27:56.174 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Creating user************
+16:28:00.363 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Created user************
+16:28:00.381 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Getting user************
+16:28:02.310 [main] INFO  test.UserTestsUsingPropertiesFile - ********************Updating user************
+16:28:03.373 [main] INFO  test.UserTestsUsingPropertiesFile - ********************To check if it is updated************
